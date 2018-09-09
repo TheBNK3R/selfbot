@@ -2,7 +2,7 @@
 
 Mini Self-Bot for Delete Discord DM Messages
 
-Installation : 
+**Installation :**
 
 Linux -
 pip3 install discord.py && pip3 install asyncio
@@ -12,11 +12,11 @@ Windows & OSX -
 python3 -m pip install discord.py
 python3 -m pip install asyncio
 
-How to use it : 
+**How to use it :**
 
 œclear (or œclear 1337 if you want to delete a specific number of messages)
 
-How to get your Discord token : 
+**How to get your Discord token :** 
 
 Press CTRL+MAJ+I in a DM conversation
 Go to the network tab
