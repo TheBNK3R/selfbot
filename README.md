@@ -6,6 +6,7 @@ Installation :
 
 Linux -
 pip3 install discord.py && pip3 install asyncio
+And just run the py executable file
 
 Windows & OSX -
 python3 -m pip install discord.py
