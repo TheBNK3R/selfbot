@@ -24,5 +24,3 @@ Send a test message
 In "message", your token will be in "autorization:"
 
 ![alt text](https://i.imgur.com/KcXb0Yn.png)
-
-
