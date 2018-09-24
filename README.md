@@ -5,12 +5,13 @@ Mini Self-Bot for Delete Discord DM Messages
 **Installation :**  
 
 Linux -  
-pip3 install discord.py && pip3 install asyncio  
+pip3 install discord.py && pip3 install asyncio œœ pip3 install aiohttp  
 And just run the py executable file  
 
 Windows & OSX -  
 python3 -m pip install discord.py  
 python3 -m pip install asyncio  
+python3 -m pip install aiohttp  
 
 **How to use it :**  
 
